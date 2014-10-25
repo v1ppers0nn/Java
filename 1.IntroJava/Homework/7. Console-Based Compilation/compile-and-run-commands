@@ -1,0 +1,5 @@
+1. Изписваме "cd" в терминала и директорията където се намира файла .java (пр. cd /home/developer/Dropbox/SoftUni/Java/1.IntroJava/Homework/src/)
+2. Изписваме javac SumTwoNumbers.java
+3. Изписваме java SumTwoNumbers
+4. Изписваме 2 числа
+5. Получаваме резултата
